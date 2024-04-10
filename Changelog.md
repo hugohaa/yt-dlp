@@ -4,6 +4,11 @@
 # To create a release, dispatch the https://github.com/yt-dlp/yt-dlp/actions/workflows/release.yml workflow on master
 -->
 
+### 2024.04.10.030349
+
+#### Core changes
+- [fixing parsing bug](https://github.com/yt-dlp/yt-dlp/commit/8781ffb4f188267a382b18d3109a6f2f9029ecca) by [pukkandan](https://github.com/pukkandan)
+
 ### 2024.04.09
 
 #### Important changes
